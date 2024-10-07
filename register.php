@@ -1,4 +1,4 @@
 <?php
-    $num = 'Hello Word';
+    $num = 'boyoyayo';
     echo $num;
 ?>
