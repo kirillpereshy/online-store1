@@ -1,4 +1,4 @@
 <?php
-    $num = 'boyoyayo';
+    $num = 'boyoyayoQWEFWD';
     echo $num;
 ?>
