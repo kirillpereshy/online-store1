@@ -9,18 +9,8 @@
 </head>
 <body>
 <?php
-    $number = 5;
-    $num = 0.66;
-
-    $str = 'Переменная';
-    $boll = true;
-
-    $a = 0.5;
-    $b = '0.5';
-    echo $a + floatval($b);
-
-
-    echo $str . ': ' . $number . '.Var: 2:'  . $num;
+    $number = 4;
+    echo $number;
 ?>
 </body>
 </html>
