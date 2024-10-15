@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php
-    $number = 1142;
+    $number = 12142;
     echo $number;
 ?>
 </body>
